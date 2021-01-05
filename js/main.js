@@ -23,4 +23,3 @@ services_item.onclick = function () {
   console.log(services);
   document.getElementsByClassName("service-description").appendChild(services);
 }
-fvfvjdsnfcladnhclkad
